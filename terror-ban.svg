@@ -122,16 +122,16 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="3658.3208"
-     inkscape:cy="708.464"
+     inkscape:zoom="0.3535534"
+     inkscape:cx="985.45724"
+     inkscape:cy="1839.8348"
      inkscape:document-units="px"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g6222"
      showgrid="false"
      showborder="true"
-     inkscape:window-width="2373"
-     inkscape:window-height="1217"
-     inkscape:window-x="-49"
+     inkscape:window-width="1440"
+     inkscape:window-height="856"
+     inkscape:window-x="14"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      fit-margin-top="0.5"
@@ -149,7 +149,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -200,7 +200,7 @@
              id="tspan4246"
              y="2821.1653"
              x="-2427.603"
-             sodipodi:role="line">The Philippines also under The Southern Philippines .</tspan></text>
+             sodipodi:role="line">The Philippines also under The Southern Philippines.</tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:60px;line-height:120.00000477%;font-family:sans-serif;text-align:start;letter-spacing:0px;word-spacing:0px;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -387,7 +387,7 @@
            id="tspan4878"
            y="1444.4396"
            x="-2625.3115"
-           sodipodi:role="line">in the US</tspan></text>
+           sodipodi:role="line">in the U.S.</tspan></text>
       <text
          sodipodi:linespacing="138%"
          id="text4882"
@@ -753,7 +753,7 @@
            y="1258.9739"
            x="-1756.0524"
            sodipodi:role="line"
-           id="tspan5807">No christian counties</tspan><tspan
+           id="tspan5807">No Christian countries</tspan><tspan
            id="tspan5965"
            style="font-size:39.99999619px"
            y="1306.9739"
